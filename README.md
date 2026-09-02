@@ -6,7 +6,7 @@
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
-N/A
+Google Gemini- "how to do abstract base class in Kotlin" for last part 
 ## Verbal Collaboration
 List students' names and CCIDs here, or simply put `N/A` if not applicable. 
 N/A
